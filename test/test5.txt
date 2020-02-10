@@ -1,0 +1,4 @@
+*** Test Cases ***
+5
+    sleep    10
+    log    5

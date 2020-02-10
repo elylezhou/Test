@@ -1,0 +1,1 @@
+[ WARN ] Automatically parsing other than '*.robot' files is deprecated. Convert 'C:\Users\Cr.sis\Documents\project\testdemo\test\test3.txt' to '*.robot' format or use '--extension' to explicitly configure which files to parse.
